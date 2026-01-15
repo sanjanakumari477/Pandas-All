@@ -1,0 +1,14 @@
+-- Important Pandas Functions (Must Know)--
+
+Function	Purpose
+
+read_csv()	  Read CSV file
+read_excel()	Read Excel file
+head()	      View first 5 rows
+tail()	      View last 5 rows
+info()	      Dataset information
+describe()	  Statistical summary
+isnull()    	Detect missing values
+dropna()	    Remove missing values
+fillna()	    Fill missing values
+shape        	Number of rows and columns
