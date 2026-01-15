@@ -1,0 +1,40 @@
+-- What is Pandas?--
+
+Pandas is an open-source Python library used for data analysis and data manipulation.
+It provides powerful and easy-to-use data structures that help in working with structured data such as tables, spreadsheets, and databases.
+
+Pandas is mainly used to clean, transform, analyze, and explore data.
+
+--Why do we use Pandas?--
+
+We use Pandas because it makes data handling simple, fast, and efficient.
+
+Key reasons:
+
+Easy handling of large datasets
+
+Simple syntax for complex operations
+
+Built-in functions for data cleaning
+
+Works directly with CSV, Excel, SQL, and JSON files
+
+Fast performance as it is built on NumPy
+
+👉 Without Pandas, data analysis in Python would be much more complicated.
+
+--Where is Pandas used?--
+
+Pandas is widely used in:
+
+Data Analysis
+
+Data Science
+
+Machine Learning (data preprocessing)
+
+Weather data analysis
+
+Finance and stock market analysis
+
+Research and reporting
