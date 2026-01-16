@@ -35,3 +35,13 @@ Outliers
 Wrong column names
 
 Extra spaces and formatting issues
+
+Data Cleaning Steps in Pandas
+1️⃣ Understanding the Dataset (First Step)
+
+Before cleaning, understand the data.
+
+df.head()
+df.info()
+df.describe()
+df.shape
