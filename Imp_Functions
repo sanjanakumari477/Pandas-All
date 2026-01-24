@@ -1,7 +1,6 @@
 -- Important Pandas Functions (Must Know)--
 
 Function	Purpose
-
 read_csv()	  Read CSV file
 read_excel()	Read Excel file
 head()	      View first 5 rows
