@@ -4,7 +4,6 @@ data = {
     'Age': [22, 25, 22, 24],
     'City': ['Delhi', 'Mumbai', 'Chennai', 'Bangalore']
 }
-
 df = pd.DataFrame(data)
 
 # Display the DataFrame
