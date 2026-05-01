@@ -1,20 +1,16 @@
  Data Cleaning in Pandas (Detailed Explanation)
 
  What is Data Cleaning?
-Data Cleaning is the process of identifying and fixing errors, inconsistencies, and missing values in a dataset to make it accurate, consistent, and ready for analysis.
-
+Data Cleaning is the process of identifying and fixing errors, inconsistencies, 
+and missing values in a dataset to make it accurate, consistent, and ready for analysis.
 In real-world projects, 70–80% of a data analyst’s time is spent on data cleaning.
 
 📌 Why Data Cleaning is Important?
 
 Improves data accuracy
-
 Ensures reliable analysis and insights
-
 Reduces errors in reports and models
-
 Makes data consistent and usable
-
 Essential before visualization and machine learning
 
 👉 Bad data = wrong business decisions
@@ -22,17 +18,12 @@ Essential before visualization and machine learning
 📌 Common Data Quality Problems
 
 Missing values
-
 Duplicate records
-
 Incorrect data types
-
 Inconsistent text values
 
 Outliers
-
 Wrong column names
-
 Extra spaces and formatting issues
 
 Data Cleaning Steps in Pandas
