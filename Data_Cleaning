@@ -1,7 +1,6 @@
-🧹 Data Cleaning in Pandas (Detailed Explanation)
+ Data Cleaning in Pandas (Detailed Explanation)
 
-📌 What is Data Cleaning?
-
+ What is Data Cleaning?
 Data Cleaning is the process of identifying and fixing errors, inconsistencies, and missing values in a dataset to make it accurate, consistent, and ready for analysis.
 
 In real-world projects, 70–80% of a data analyst’s time is spent on data cleaning.
