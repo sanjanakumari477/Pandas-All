@@ -10,16 +10,15 @@ Pandas is mainly used to clean, transform, analyze, and explore data.
 We use Pandas because it makes data handling simple, fast, and efficient.
 
 Key reasons:
+-Easy handling of large datasets
 
-Easy handling of large datasets
+-Simple syntax for complex operations
 
-Simple syntax for complex operations
+-Built-in functions for data cleaning
 
-Built-in functions for data cleaning
+-Works directly with CSV, Excel, SQL, and JSON files
 
-Works directly with CSV, Excel, SQL, and JSON files
-
-Fast performance as it is built on NumPy
+-Fast performance as it is built on NumPy
 
 👉 Without Pandas, data analysis in Python would be much more complicated.
 
